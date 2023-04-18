@@ -1,0 +1,31 @@
+Home,Away,1,X,2,Under,Over,R1,RX,R2,RUO
+Manchester Utd,Leicester City,1.35,3.40,6.00,1.65,1.70,TRUE,FALSE,FALSE,TRUE
+Newcastle Utd,Tottenham,3.30,3.10,1.75,1.65,1.70,FALSE,FALSE,TRUE,TRUE
+Huddersfield Town,Chelsea,5.00,3.50,1.40,1.65,1.70,FALSE,FALSE,TRUE,TRUE
+Bournemouth,Cardiff City,1.65,3.10,3.75,1.60,1.75,TRUE,FALSE,FALSE,FALSE
+Watford,Brighton & Hove,2.10,2.70,2.85,1.45,1.95,TRUE,FALSE,FALSE,FALSE
+Fulham,Crystal Palace,2.25,3.00,2.55,1.65,1.70,FALSE,FALSE,TRUE,FALSE
+Wolverhampton,Everton,2.00,2.90,2.80,1.50,1.85,FALSE,TRUE,FALSE,TRUE
+Liverpool,West Ham United,1.10,5.00,11.00,2.30,1.30,TRUE,FALSE,FALSE,TRUE
+Southampton,Burnley,1.60,3.10,4.00,1.45,1.95,FALSE,TRUE,FALSE,FALSE
+Arsenal,Manchester City,3.50,3.40,1.60,2.15,1.35,FALSE,FALSE,TRUE,FALSE
+Cardiff City,Newcastle Utd,2.70,2.80,2.10,1.45,1.95,FALSE,TRUE,FALSE,FALSE
+Everton,Southampton,1.60,3.10,3.90,1.50,1.85,TRUE,FALSE,FALSE,TRUE
+West Ham United,Bournemouth,1.80,3.10,3.10,1.85,1.50,FALSE,FALSE,TRUE,TRUE
+Leicester City,Wolverhampton,1.85,3.00,3.10,1.50,1.85,TRUE,FALSE,FALSE,FALSE
+Tottenham,Fulham,1.15,4.75,9.00,2.30,1.30,TRUE,FALSE,FALSE,TRUE
+Chelsea,Arsenal,1.55,3.50,3.75,1.95,1.45,TRUE,FALSE,FALSE,TRUE
+Burnley,Watford,2.10,2.70,2.80,1.35,2.15,FALSE,FALSE,TRUE,TRUE
+Manchester City,Huddersfield Town,1.55,4.00,3.30,,,TRUE,FALSE,FALSE,FALSE
+Brighton & Hove,Manchester Utd,4.30,3.30,1.50,1.45,1.95,TRUE,FALSE,FALSE,TRUE
+Crystal Palace,Liverpool,6.00,4.30,1.25,2.15,1.35,FALSE,FALSE,TRUE,FALSE
+Wolverhampton,Manchester City,10.00,5.50,1.10,2.30,1.30,FALSE,TRUE,FALSE,FALSE
+Huddersfield Town,Cardiff City,2.00,2.80,2.90,1.35,2.15,FALSE,TRUE,FALSE,FALSE
+Southampton,Leicester City,2.00,2.90,2.80,1.40,2.05,FALSE,FALSE,TRUE,TRUE
+Bournemouth,Everton,2.30,3.00,2.30,1.85,1.50,FALSE,TRUE,FALSE,TRUE
+Arsenal,West Ham United,1.20,4.50,7.00,2.30,1.30,TRUE,FALSE,FALSE,TRUE
+Liverpool,Brighton & Hove,1.05,6.25,12.50,2.50,1.25,TRUE,FALSE,FALSE,FALSE
+Watford,Crystal Palace,2.20,3.00,2.40,1.60,1.75,TRUE,FALSE,FALSE,TRUE
+Fulham,Burnley,1.70,3.10,3.50,1.45,1.95,TRUE,FALSE,FALSE,TRUE
+Newcastle Utd,Chelsea,4.60,3.40,1.45,1.80,1.55,FALSE,FALSE,TRUE,TRUE
+Manchester Utd,Tottenham,2.20,2.80,2.60,1.65,1.70,FALSE,FALSE,TRUE,TRUE
